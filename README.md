@@ -1,2 +1,2 @@
 # iReadMoreTextVIew
-Text view with Read more and Read less functionality
+TextView with 'Read more' and 'Read less' functionality
